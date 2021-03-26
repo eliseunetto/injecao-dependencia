@@ -38,8 +38,6 @@ Fazer um programa para calcular o preço final de um produto, dado seu custo e o
 **Local de entrega:** SC \
 **Resultado:** 350,00
 
-## UML - Pay Service
+## Diagrama
 
-<p align="center">
-  <img src="uml-payService.png">
-</p>
+![Diagram](diagram.png)
